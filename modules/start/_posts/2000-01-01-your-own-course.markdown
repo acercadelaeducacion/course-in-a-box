@@ -9,12 +9,12 @@ published: true
 
 ![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
 
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+Imagen [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) de [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) en Flickr.
 
 <!--During this course you will learn the theoretical and technical parts by creating your own online course! [Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
 -->
-¡Durante este curso aprenderán las partes técnicas y teóricas a traves de la creación de sus propios cursos!
-[Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
+¡Durante este curso aprenderán las partes técnicas y teóricas a traves de la creación de sus propios cursos 
+[Aplausos](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
 
 <!--## Steps to Get Your Own Course
 ### Copy this course.
