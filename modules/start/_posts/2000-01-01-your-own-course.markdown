@@ -3,14 +3,27 @@ title: Your own course
 published: true
 ---
 
-# Your Very Own Course! Ideas + Technical Bits
+<!--# Your Very Own Course! Ideas + Technical Bits-->
+
+# ¡Armando el curso! Ideas + bits técnicos
 
 ![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
 
 Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
 
-During this course you will learn the theoretical and technical parts by creating your own online course! [Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
+<!--During this course you will learn the theoretical and technical parts by creating your own online course! [Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
+-->
+¡Durante este curso aprenderán las partes técnicas y teóricas a traves de la creación de sus propios cursos!
+[Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
 
+<!--## Steps to Get Your Own Course
+### Copy this course.
+This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
+
+<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
+
+This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
+-->
 ## Steps to Get Your Own Course
 ### Copy this course.
 This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
@@ -18,7 +31,6 @@ This course is built using [GitHub Pages](https://pages.github.com/), to make a 
 <a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
 
 This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
-
 ### Tweak a few items. 
 There are two updates that you need to make to your course to get it working. First, change
 
