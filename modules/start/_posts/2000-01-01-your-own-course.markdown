@@ -50,12 +50,13 @@ Next, delete the file called CNAME [https://github.com/your-github-username/cour
 
 Now that you have a space to work, lets put a draft framework in place for your course.
 -->
+
 ### Ajuste de algunos elementos
 Hay dos actualizaciones, modificaciones que tienen que hacer al curso para tenerlo en funcionamiento. Primero cambien
 
 {% highlight yaml %}baseurl:{% endhighlight %}
 
-to
+a
 
 {% highlight yaml %}baseurl: /course-in-a-box{% endhighlight %}
 
