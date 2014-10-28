@@ -25,6 +25,7 @@ This course is built using [GitHub Pages](https://pages.github.com/), to make a 
 
 This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
 -->
+
 ## Pasos para armar su propio curso
 ### Copien este curso
 Este curso está construido usando las [Páginas de GitHub](https://pages.github.com/), para hacer una copia de este curso, necesitan *forkear*, hacer una copia o bifurcación del repositorio en GitHub.
