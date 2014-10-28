@@ -25,15 +25,16 @@ This course is built using [GitHub Pages](https://pages.github.com/), to make a 
 
 This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
 -->
+## Pasos para armar su propio curso
+### Copien este curso
+Este curso está construido usando las [Páginas de GitHub](https://pages.github.com/), para hacer una copia de este curso, necesitan *forkear*, hacer una copia o bifurcación del repositorio en GitHub.
+Pueden hacer esto haciendo click en el link de acá abajo. Es probable que tengan que loguearse o crear una cuenta en GitHub.
 
-## Steps to Get Your Own Course
-### Copy this course.
-This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
+<a class="btn btn-primary" href="https://github.com/acercadelaeducacion/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
 
-<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
+Esta copia es en la que trabajaran durante el resto del curso. Algunas de las cuestiones técnicas pueden representar desafíos o resultar frustrantes. Pero abordandolas paso a paso, sonsultando y pidiendo ayudas a sus pares, pronto se convertiran en expertos/as y estaran ayudando a otras personas.
 
-This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
-### Tweak a few items. 
+<!--### Tweak a few items. 
 There are two updates that you need to make to your course to get it working. First, change
 
 {% highlight yaml %}baseurl:{% endhighlight %}
@@ -47,14 +48,38 @@ in the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pag
 Next, delete the file called CNAME [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME)
 
 Now that you have a space to work, lets put a draft framework in place for your course.
+-->
+### Ajuste de algunos elementos
+Hay dos actualizaciones, modificaciones que tienen que hacer al curso para tenerlo en funcionamiento. Primero cambien
 
+{% highlight yaml %}baseurl:{% endhighlight %}
+
+to
+
+{% highlight yaml %}baseurl: /course-in-a-box{% endhighlight %}
+
+en el archivo [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml)
+
+Luego, borren el archivo llamado CNAME [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME)
+
+Ahora que tienen un espacio de trabajo, hagamos un borrador del marco de trabajo del curso
+
+<!--
 ### Give your course a name. 
 To update the title of your course, go to [https://github.com/your-github-username/course-in-a-box/](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) and edit the file called `_data/course.yml`. You will see the title for this course there, change that to the name you decided on. Don't worry too much if you don't have the perfect name, you now know how to change the title for your course and you can update it at any time!
 
 {% highlight yaml %}title: "Course Title"{% endhighlight %}
+-->
+### Denle al curso un nombre
+Para modificar el título del curso, vayan a
+[https://github.com/your-github-username/course-in-a-box/](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) y editen el archivo llamado `_data/course.yml`. Verán el título de este curso ahí, cambienlo al nombre que quieran para su curso. No se preocupen demasiado si no tienen el nombre perfecto. Ahora ya saben como cambiar el título de su curso y pueden hacerlo en cualquier momento.
 
+{% highlight yaml %}title: "Course Title"{% endhighlight %}
+
+<!--
 ### Who is the course for & what will they learn?
 Will they be building something during the course. Put this basic information on the front page of the course to give a short overview of what to expect. To update the info on the front page, go to the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) and replace the text currently there to reflect what your course will be about. Once again, you can update it at any time and we will come back to this at a later stage.
+-->
 
 ### Lets have a look at your course!
 
