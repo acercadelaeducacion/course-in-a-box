@@ -21,7 +21,7 @@ Imagen [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) de [mikecogh]
 ### Copy this course.
 This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
 
-<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
+<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copien este curso</a>
 
 This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
 -->
