@@ -31,7 +31,7 @@ This copy is where you will be working during the rest course. Some of the techn
 Este curso está construido usando las [Páginas de GitHub](https://pages.github.com/), para hacer una copia de este curso, necesitan *forkear*, hacer una copia o bifurcación del repositorio en GitHub.
 Pueden hacer esto haciendo click en el link de acá abajo. Es probable que tengan que loguearse o crear una cuenta en GitHub.
 
-<a class="btn btn-primary" href="https://github.com/acercadelaeducacion/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copy this course</a>
+<a class="btn btn-primary" href="https://github.com/acercadelaeducacion/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Copiar este curso</a>
 
 Esta copia es en la que trabajaran durante el resto del curso. Algunas de las cuestiones técnicas pueden representar desafíos o resultar frustrantes. Pero abordandolas paso a paso, sonsultando y pidiendo ayudas a sus pares, pronto se convertiran en expertos/as y estaran ayudando a otras personas.
 
