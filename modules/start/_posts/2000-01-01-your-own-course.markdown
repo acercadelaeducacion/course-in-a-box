@@ -13,10 +13,11 @@ Imagen [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) de [mikecogh]
 
 <!--During this course you will learn the theoretical and technical parts by creating your own online course! [Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
 -->
-¡Durante este curso aprenderán las partes técnicas y teóricas a traves de la creación de sus propios cursos 
-[Aplausos](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
+¡Durante este curso aprenderán las partes técnicas y teóricas a traves de la creación de sus propios cursos!
+¡[Aplausos](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)!
 
-<!--## Steps to Get Your Own Course
+<!--
+## Steps to Get Your Own Course
 ### Copy this course.
 This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
 
@@ -24,6 +25,7 @@ This course is built using [GitHub Pages](https://pages.github.com/), to make a 
 
 This copy is where you will be working during the rest course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
 -->
+
 ## Steps to Get Your Own Course
 ### Copy this course.
 This course is built using [GitHub Pages](https://pages.github.com/), to make a copy of this course, you need to fork the repository on GitHub. You can do this by clicking the link below. You may need to log in or create a GitHub account.
