@@ -52,7 +52,7 @@ Now that you have a space to work, lets put a draft framework in place for your 
 -->
 
 ### Ajuste de algunos elementos
-Hay dos actualizaciones, modificaciones que tienen que hacer al curso para tenerlo en funcionamiento. Primero cambien
+Hay dos actualizaciones o modificaciones que tienen que hacerle al curso para tenerlo en funcionamiento. Primero cambien
 
 {% highlight yaml %}baseurl:{% endhighlight %}
 
@@ -74,7 +74,7 @@ To update the title of your course, go to [https://github.com/your-github-userna
 -->
 ### Denle al curso un nombre
 Para modificar el título del curso, vayan a
-[https://github.com/your-github-username/course-in-a-box/](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) y editen el archivo llamado `_data/course.yml`. Verán el título de este curso ahí, cambienlo al nombre que quieran para su curso. No se preocupen demasiado si no tienen el nombre perfecto. Ahora ya saben como cambiar el título de su curso y pueden hacerlo en cualquier momento.
+[https://github.com/your-github-username/course-in-a-box/](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) y editen el archivo llamado `_data/course.yml`. Verán el título de este curso ahí, cambienlo al nombre que quieran para su curso. No se preocupen demasiado si no tienen el nombre perfecto. Ahora que ya saben como cambiar el título de su curso pueden hacerlo en cualquier momento.
 
 {% highlight yaml %}title: "Course Title"{% endhighlight %}
 
@@ -82,11 +82,18 @@ Para modificar el título del curso, vayan a
 ### Who is the course for & what will they learn?
 Will they be building something during the course. Put this basic information on the front page of the course to give a short overview of what to expect. To update the info on the front page, go to the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) and replace the text currently there to reflect what your course will be about. Once again, you can update it at any time and we will come back to this at a later stage.
 -->
+### ¿Para quién es el curso y que aprenderán en él?
+¿Contruirán algo durante el curso?. Pongan la información básica en la página que incio del curso para que tengan un vestazo de lo que harán. Para actualizar la información en la *página de inicio*, vayan al archivo  [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) y remplacen el texto actual a uno que refleje de qué se tratara su curso. Como se dijo anteriormente, pueden cambiar esto en cualquier momento, más adelante volveremos más adelante volveremos sobre este tema.
 
+<!--
 ### Lets have a look at your course!
 
 You can view it by going to [https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/), just replace your-github-username with your GitHub username.
+-->
+### ¡Veamos cómo va quedando el curso!
+Pueden verlo yendo a [https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/), solo remplacen *your-github-username* con el nombre de usuario de GitHub. 
 
+<!--
 ## Resources and Help
 
 - See our <a href="{{site.baseurl}}{% post_url 2000-01-02-github-cheatsheet %}">GitHub Cheatsheet</a> if you get stuck with any git related things. 
@@ -95,3 +102,10 @@ You can view it by going to [https://your-github-username.github.io/course-in-a-
 You may have noticed that the [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) file contained a few funny caracters. This is called [Markdown](https://en.wikipedia.org/wiki/Markdown), an easy way of writing files for the web. For some tips on how to get the most out of Markdown, see [our Markdown cheetsheet]({{site.baseurl}}/references/markdown-cheatsheet/).
  
 **Possible error: pages not displayed.** You can get an email after forking the repository with the following message: "The page build failed with the following error: Page build failed". To solve this issue, check you have [enabled the automatic page generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator) on your repository. Another possible cause would be a missing whitespace in your newly added content. Double check it and commit again to trigger page generation.
+-->
+## Recursos y ayudas
+- Chequeen nuestro <a href="{{site.baseurl}}{% post_url 2000-01-02-github-cheatsheet %}">Machete de GitHub</a> si se quedan trabadxs con cualquier cosa relacionada a git. 
+- Pregunten en el [foro de la comunidad P2PU](http://community.p2pu.org/category/tech).
+- Se habran dado cuenta que el archivo [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) contiene algunos caracteres raros. Esto se llama [Markdown](https://es.wikipedia.org/wiki/Markdown), una forma sencilla de escribir paginas en la  web. Para tener algunos tips sobre como sacar el mejor provecho de Markdown vean [nuestro machete de Markdown]({{site.baseurl}}/references/markdown-cheatsheet/).
+ 
+**Posibles errores: pages not displayed.** Puede ser que les llegue un mail despues de forkear el repositorio con el siguiente mensaje en inglése: "The page build failed with the following error: Page build failed". Para resolver este problema, chequeen que tienen habilitado el generador de páginas automáticas en inglés:  ["automatic page generator"](https://help.github.com/articles/creating-pages-with-the-automatic-generator) en su repositorio. Otra posible causa de este es que falte un espacio en blanco en los contenidos nuevos que agregaron. Chequeen nuevamente si cuando cambiaron el títlulo de la página o la descripsión dejaron un espacio en blanco entre los **:** y su nuevo contenido.
