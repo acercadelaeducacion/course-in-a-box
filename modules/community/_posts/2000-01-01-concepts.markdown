@@ -1,9 +1,9 @@
 ---
-title: Concepts
-excerpt: "Find out why community is important in learning something new, what makes robust communities tick, and start co-designing your course."
+title: Conceptos
+excerpt: "Por qué la comunidad es importante a la hora de parender algo nuevo, qué hace que una comunidad sea robusta y motivante, y comience a co-diseñar su curso."
 published: true
 ---
-
+<!--
 # Community: the Dynamics of Generating Awesome
 
 ![]({{site.baseurl}}/img/community.jpg)
@@ -16,6 +16,21 @@ published: true
 - How did you build with your audience?
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/c4KM9QgfOXA" frameborder="0" allowfullscreen></iframe>
+-->
+# Comunidad: la dinámica de generar lo alucinante
+
+![]({{site.baseurl}}/img/community.jpg)
+
+[Dave Cormier](http://davecormier.com/), narrador principal de [Rhizomatic Learning: the Community is the Curriculum](https://p2pu.org/en/courses/882/rhizomatic-learning-the-community-is-the-curriculum/) ([#rhizo14](https://twitter.com/search?q=rhizo14&src=typd)) y reacio padrastro del movimiento MOOC, responde las siguientes preguntas básicas
+
+- ¿Por qué aprender en comunidad es tán importante?
+- ¿Cómo se puede pedir a la gente que participe?
+- ¿Como se construye su audiencia?
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/c4KM9QgfOXA" frameborder="0" allowfullscreen></iframe>
+
+## ¿Qué hace qué una comunidad de aprendizaje sea lo que es?
+
 
 ## Why does Community Matter for Learning?
 
