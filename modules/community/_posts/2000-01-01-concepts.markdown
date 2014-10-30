@@ -61,7 +61,7 @@ In this part of the course, we’ll talk about “social presence” (or communi
 
 La forma en que estas piezas trabajan juntas se ven así:
 
-![Diagrama de Venn mostrando la intersección de la presencia social, cognitiva y de enseñanza.]({{site.baseurl}}/img/community-diagram.jpg)
+![Diagrama de Venn mostrando la intersección de la presencia social, cognitiva y de enseñanza.]({{site.baseurl}}/img/community-diagram.png)
 
 <!--
 ## OK, But What’s Community?
