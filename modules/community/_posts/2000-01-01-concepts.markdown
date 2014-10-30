@@ -91,15 +91,15 @@ Preguntemos por ahí:
 
 El investigador y escritor Clay Shirky, en la charla sobre [como funciona la comunidad de codigo abierto de Perl](https://www.youtube.com/watch?v=Xe1TZaElTAs) describe su test de fuego: 
 
-![shirky community.png](/img/shirky%20community.png)
+![shirky community.png](/img/shirky_community.png)
 
 Es también una sensación de interconexión. El diseñador de comunidad Alex Hillman muestra cuan importánte es diseñar profundas interacciones de confianza, porque ellas crean *valor* para los participantes:
 
-![hillman community.png](/img/hillman%20community.png)
+![hillman community.png](/img/hillman_community.png)
 
 Nosotros la describimos como una combinación de las anteriores: comunidad es un sentido de *pertencia y proposito compartido*. 
 
-![P2PU community.png](/img/P2PU%20community.png)
+![P2PU community.png](/img/P2PU_community.png)
 
 Piensen en su asociaciones locales, asambleas barriales, iglesias, clubes, o bibliotecas populares. Siempre hay una razón por la que estan ahí, y una sentido de inclusión que los une. 
 
