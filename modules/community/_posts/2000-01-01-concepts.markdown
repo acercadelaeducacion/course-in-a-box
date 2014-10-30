@@ -67,7 +67,7 @@ La forma en que estas piezas trabajan juntas se ven así:
 ## OK, But What’s Community?
 
 Let's ask around:
-support and stretchsupport and stretch
+
 Scholar and writer Clay Shirky, in describing [how the open source community Perl works](https://www.youtube.com/watch?v=Xe1TZaElTAs) described his litmus test: 
 
 ![shirky community.png](/img/shirky%20community.png)
@@ -84,6 +84,27 @@ Think about your local PTA, block party organization, church, book club or alumn
 
 As a course facilitator, you are designing a learning community. Peer-to-peer learning is a network of people helping each other. Once you have your learning goals established, the next series of ideas to think about is how to build a community around those goals. 
 -->
+
+## OK, Pero ¿Qué es una comunidad?
+
+Preguntemos por ahí:
+
+El investigador y escritor Clay Shirky, en la charla sobre [como funciona la comunidad de codigo abierto de Perl](https://www.youtube.com/watch?v=Xe1TZaElTAs) describe su test de fuego: 
+
+![shirky community.png](/img/shirky%20community.png)
+
+Es también una sensación de interconexión. El diseñador de comunidad Alex Hillman muestra cuan importánte es diseñar profundas interacciones de confianza, porque ellas crean *valor* para los participantes:
+
+![hillman community.png](/img/hillman%20community.png)
+
+Nosotros la describimos como una combinación de las anteriores: comunidad es un sentido de *pertencia y proposito compartido*. 
+
+![P2PU community.png](/img/P2PU%20community.png)
+
+Piensen en su asociaciones locales, asambleas barriales, iglesias, clubes, o bibliotecas populares. Siempre hay una razón por la que estan ahí, y una sentido de inclusión que los une. 
+
+Como facilitadores de un curso, ustedes son diseñadores de una comunidad de aprendizaje. El aprendizaje Peer-to-Peer es una red de gente ayudandose una a otra. Una vez que tengan sus objetivos de parendizaje establecidos, la siguiente serie de ideas a pensar es como construir una comunidad alrededor de esos objetivos.
+
 ## How Do I Design a Community?
 Good question. In order to design a stellar learning community, you'll need to think through a few questions. In your course, how will you:
 
